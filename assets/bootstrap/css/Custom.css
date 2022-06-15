@@ -1,0 +1,8 @@
+.carousel-inner img{
+    height: 60vh;
+    width: 100%;
+}
+.page_columns img{
+    width: 45%;
+    height: 20vh;
+}
